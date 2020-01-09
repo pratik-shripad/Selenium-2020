@@ -1,9 +1,7 @@
 package Default;
 
-public class demo
-{
-public static void main(String[] args) 
-{
-	System.out.println( "hi helloo");
-}
+public class demo {
+	public static void main(String[] args) {
+		System.out.println("hi");
+	}
 }
